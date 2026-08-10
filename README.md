@@ -26,4 +26,4 @@ skill of working this way.
 
 ## Provenance
 
-Built by [Frilly](https://frillyconcierge.com), where the same method is phase one of building fully agent-ready websites for local brands.
+Built by [Jorge from Frilly](https://frillyconcierge.com).
