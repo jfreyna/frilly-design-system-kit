@@ -1,6 +1,6 @@
 # Try it yourself: a design system from your website, in minutes
 
-*Fill in the three lines below, then copy-paste THIS ENTIRE DOCUMENT — your answers and everything under the line — into a new Claude chat. That's it.*
+*Fill in the three lines below, then copy-paste THIS ENTIRE DOCUMENT — your answers and everything under the line — into a new Claude or ChatGPT chat. That's it.*
 
 ## Your three inputs
 
