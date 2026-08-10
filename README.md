@@ -12,7 +12,7 @@ Every value is traceable to something the site actually uses. The kit's core pri
 ## How to use it (three steps)
 
 1. Open [claude.ai](Claude) or [chatgpt.com](ChatGPT) and start a new chat. The free versions work for this.
-2. Copy the ENTIRE document in [https://github.com/jfreyna/frilly-design-system-kit/blob/master/Frilly_Design_System_Kit.md](Frilly_Design_System_Kit.md) from this repository and paste it into the chat, 
+2. Copy the ENTIRE document in [Frilly_Design_System_Kit.md](https://github.com/jfreyna/frilly-design-system-kit/blob/master/Frilly_Design_System_Kit.md) from this repository and paste it into the chat, 
 3. Fill in the three blanks at the top: your website, two fonts (or "keep our current fonts"), and a reference site you admire. Hit Enter to watch it work.
 
 You'll get a spec sheet with your design system formatted in the Material Design convention (`design-system.html`) and a sample homepage (`index.html`). Save both files in one folder and double-click `index.html`.
